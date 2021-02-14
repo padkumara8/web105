@@ -1,0 +1,137 @@
+Python Notes
+
+versatile programming language
+excel -- > python
+can create web app
+google instagram, spotify and other apps use python
+games web apps, mobile apps
+
+Libraries - collection of functions. 
+How to get connection to different websites - e.g. google and facebook use their own libraries 
+python is relatively easy to use and learn
+
+homework - go through the functions page and go over the commands on the URL https://docs.python.org/3/library/functions.html
+
+python shell is a backdoor to a computer - command prompt
+
+Variable name  - 
+computers have long term memory and short terms memory (RAM)
+long term memory - file or database 
+python lives in the short term memory
+in python if we need to save values we need to create variable name. Example "x"
+
+X=
+"=" we are assigning a value 
+
+computers need to variables to store numbers 
+
+7 is going to be stored as a particular data type. Computers know how this data is going to be used in future. 
+7 is a numberic datatype 
+
+in python there are two numeric datatype- integer or float
+
+float is a precise number with a decimal point. 
+So 7 is a integer and 7.5 is a float
+
+math operation is only possible between two numberic datatype. integer , integer, float, float 
+
+Area of all rooms on this floor 
+
+if you want to save something in the memory, use a variable e.g. total = x*y
+
+how to use delete in terminal - 
+
+couple of magic commands 
+first command is "type"
+
+string values are within ""
+what is a string - 
+built in function ord (order) f
+computer stores imogis as a number. Python saves lower case a as 97 and upper case A as 65. String is a sequential datatype. It could be any character.
+can use any quotes to define a string. 
+anything that you wrap in quotes will be considered a string 
+ord - stands for order 
+
+string could be empty as well - " "
+
+
+best part of python is that it help you with the error messages 
+the error says that you cannot use the "+" operator between the strings 
+
+options 
+built in function  - int 
+same operator + behaves differently in terms of string and numberic. 
+good programmer always thinks about datatypes -- important 
+
+
+Three major commands 
+TYPE () 
+DIR ()
+HELP()
+strings come in with built in commands  called attributes 
+dunder methods __
+
+word.upper - upper is the method that could be applied to this particular object. upper method comes from the object itself 
+
+variable name that hold that object.method - this is the syntax 
+
+if you do dir on the word, then if the method is not 
+
+dir will list all the available commands 
+
+[] index
+
+minus or negative sign is from going from right to left
+
+slice the string - start:stop:step
+stop is excluded
+
+Step = how many characters to skip
+
+
+exercise 
+
+string = "aAbBcCdDeE"
+
+the goal is to get all the lower case letters in the list 
+
+get all lower case letters starting with e
+
+Homework : take any sentence and try to slice it. example - what will be the practical use? 
+
+you have an address : "115 W 30th. St, New York, NY, 12345"
+
+create file and run the program
+
+
+Exercise 
+
+Check = 50$
+Tax_Rate= 0.08
+Tip_Rate= 0.18
+
+pseudo code - plain words the plan 
+
+
+
+logic if and else 
+
+Summary note s
+
+Integer
+Float
+String
+Boolean - True vs False 
+
+Type()
+Dir() - all available commands 
+help()
+
+
+
+
+
+
+
+
+
